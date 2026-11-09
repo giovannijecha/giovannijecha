@@ -10,8 +10,6 @@ software projects.
 
 - [Jecode](https://github.com/giovannijecha/jecode) — a terminal coding agent in
   Rust that uses OpenRouter to work on project files and run commands.
-- [Webterminal](https://github.com/giovannijecha/webterminal) — a local Windows
-  terminal in the browser, with real PowerShell sessions organized in workspaces.
 
 ## Contact
 
